@@ -53,9 +53,12 @@ def main():
 
         # creating multiple QR codes
         cont = input("\nDo you want to generate another QR code? (yes/no):\n").strip().lower()
+        
         if cont != 'yes':
-            print("Exiting the QR code generator.")
+            print("\nExiting the QR code generator...")
+            print("Thank you!")
             break
+
         print("\n" + "="*50 + "\n")
         print("Generating a new QR code...\n")
 
