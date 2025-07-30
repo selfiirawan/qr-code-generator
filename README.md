@@ -59,11 +59,7 @@ Thank you!
 
 ### Generated QR Codes
 
-**Light Theme Example**  
-![Example Styled QR Code](demo_qr_styled.png)
 
-**Dark Theme Example**  
-![Example Dark QR Code](demo_qr_dark.png)
 
 ---
 
