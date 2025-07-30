@@ -1,0 +1,75 @@
+# QR Code Generator
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Repo Size](https://img.shields.io/github/repo-size/selfiirawan/qr-code-generator)
+![Stars](https://img.shields.io/github/stars/selfiirawan/qr-code-generator?style=social)
+
+A beginner-friendly Python project to generate **customizable QR codes** from any URL or text input.  
+Users can create unlimited QR codes in one session and type `no` to exit.  
+Each QR code is saved as a `.png` file in the project folder.
+
+> **Inspired by [Codédex](https://www.codedex.io)** — built as part of my Python learning journey.
+
+---
+
+## Features
+
+- Generate QR codes from any links (Instagram, YouTube, websites, etc.)
+- **Customize QR code properties**:
+  - Version (1–40)
+  - Box size
+  - Border size
+- Save QR codes as `.png` files with custom file names.
+- Loop functionality: create multiple QR codes in one session.
+- Clean and organized code using functions.
+
+---
+
+## Demo
+
+Here’s an example of how the program works and the QR codes it generates:
+
+### Terminal Session
+
+```text
+Enter any website link:
+https://www.youtube.com/
+
+Enter the version of QR code (1-40)(default is 1):
+2
+
+Enter the box size (default is 5):
+8
+
+Enter the border size (default is 5):
+3
+
+Enter the name of the QR code image file (without extension):
+youtube_qr
+
+QR code generated and saved as 'youtube_qr.png'.
+
+Do you want to generate another QR code? (yes/no):
+no
+
+Exiting the QR code generator...
+Thank you!
+```
+
+### Generated QR Codes
+
+**Light Theme Example**  
+![Example Styled QR Code](demo_qr_styled.png)
+
+**Dark Theme Example**  
+![Example Dark QR Code](demo_qr_dark.png)
+
+---
+
+## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/selfiirawan/qr-code-generator.git
+cd qr-code-generator
