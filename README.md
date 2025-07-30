@@ -59,7 +59,7 @@ Thank you!
 
 ### Generated QR Codes
 
-
+![Example Generated QR Code](youtube_qr.png)
 
 ---
 
@@ -69,3 +69,5 @@ Thank you!
 ```bash
 git clone https://github.com/selfiirawan/qr-code-generator.git
 cd qr-code-generator
+```
+2. 
