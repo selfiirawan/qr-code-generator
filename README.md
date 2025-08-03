@@ -83,3 +83,9 @@ python main.py
 - Python 3
 - qrcode library
 - Pillow (PIL)
+  
+---
+
+## License
+```text
+This project is licensed under the MIT License.
