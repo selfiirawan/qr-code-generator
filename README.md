@@ -70,4 +70,22 @@ Thank you!
 git clone https://github.com/selfiirawan/qr-code-generator.git
 cd qr-code-generator
 ```
-2. 
+2. **Install dependencies**
+```bash
+pip install qrcode[pil]
+```
+3. **Run the program**
+```bash
+python main.py
+```
+---
+## Tech Stack
+- Python 3
+- qrcode library
+- Pillow (PIL)
+  
+---
+
+## License
+```text
+This project is licensed under the MIT License.
