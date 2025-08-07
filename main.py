@@ -1,7 +1,7 @@
 import qrcode
 
 def code_version():
-    ver = input("\nEnter the version of QR code (1-40)(default is 1):\n")
+    ver = input("\nEnter the version of QR code (1-40, default is 1):\n")
     if ver.isdigit() and 1 <= int(ver) <= 40:
         ver = int(ver)
     else:
