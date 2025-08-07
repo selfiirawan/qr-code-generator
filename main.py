@@ -30,7 +30,7 @@ def border_size():
 def main():
     while True:
         # add any link you want to generate a QR code for 
-        website_link = input("Enter any website link:\n")
+        website_link = input("Enter any link:\n")
 
         # customize the QR code
         # choose own version, box size, and border size
