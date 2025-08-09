@@ -5,11 +5,14 @@
 ![Repo Size](https://img.shields.io/github/repo-size/selfiirawan/qr-code-generator)
 ![Stars](https://img.shields.io/github/stars/selfiirawan/qr-code-generator?style=social)
 
-A beginner-friendly Python project to generate **customizable QR codes** from any URL or text input.  
-Users can create unlimited QR codes in one session and type `no` to exit.  
+A beginner-friendly Python project to generate **customizable QR codes** from any URL.  
+Users can create unlimited QR codes in one session and just type `no` to exit the program.  
 Each QR code is saved as a `.png` file in the project folder.
 
-> **Inspired by [Codédex](https://www.codedex.io)** — built as part of my Python learning journey.
+> **Inspired by [Codédex](https://www.codedex.io)**
+> 
+
+The original project was simple and straightforward so I make some improvements, as suggested by the original developer.
 
 ---
 
