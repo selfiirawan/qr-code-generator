@@ -29,6 +29,14 @@ The original project was simple and straightforward so I make some improvements,
 
 ---
 
+## What I improved
+- **input() Function** - link is provided by the user instead of being hardcoded
+- **QR code Customization** - user choose their own version, box-size and border size of QR code
+- **Generate Multiple QR** - user can create several QR codes in one run
+- **Cleaner Code Structure** - customization logic moved into separate functions for better organization 
+
+---
+
 ## Demo
 
 Here’s an example of how the program works and the QR codes it generates:
