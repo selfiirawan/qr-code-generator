@@ -24,8 +24,8 @@ The original project was simple and straightforward so I make some improvements,
   - Box size
   - Border size
 - Save QR codes as `.png` files with custom file names.
-- Loop functionality: create multiple QR codes in one session.
-- Clean and organized code using functions.
+- Loop functionality: create multiple QR codes in one session without restarting the program.
+- Structured and cleaner code using functions for each customization step.
 
 ---
 
